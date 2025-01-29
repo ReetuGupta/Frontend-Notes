@@ -40,4 +40,3 @@ I have organized my notes into separate folders for better readability:
 - 💻 [GitHub](https://github.com/ReetuGupta)  
 
 Happy Learning! 🚀  
-# Frontend-Notes
