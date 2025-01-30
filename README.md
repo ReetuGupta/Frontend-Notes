@@ -10,12 +10,12 @@ This repository contains my **handwritten notes** on frontend development concep
 I have organized my notes into separate folders for better readability:
 
 📁 **HTML/** _(Handwritten notes on HTML concepts)_  
-- [HTML Short Notes](HTML/HTML Short Notes.pdf)  
+- [HTML Short Notes](https://github.com/ReetuGupta/Frontend-Notes/blob/main/HTML/HTML%20Short%20Notes.pdf) 
 
 📁 **CSS/** _(Fundamentals, layouts, and advanced topics)_  
-- [CSS Fundamentals](./CSS/CSS Fundamentals.pdf)  
-- [CSS Flexbox & Grid](./CSS/CSS Flexbox & Grid.pdf)  
-- [CSS Advanced](./CSS/CSS Advanced.pdf)  
+- [CSS Fundamentals](https://github.com/ReetuGupta/Frontend-Notes/blob/main/CSS/CSS%20Fundamentals.pdf)
+- [CSS Flexbox & Grid](https://github.com/ReetuGupta/Frontend-Notes/blob/main/CSS/CSS%20Flexbox%20%26%20Grid.pdf)  
+- [CSS Advanced](https://github.com/ReetuGupta/Frontend-Notes/blob/main/CSS/CSS%20Advanced.pdf)  
 
 ---
 
