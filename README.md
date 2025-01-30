@@ -10,12 +10,12 @@ This repository contains my **handwritten notes** on frontend development concep
 I have organized my notes into separate folders for better readability:
 
 📁 **HTML/** _(Handwritten notes on HTML concepts)_  
-- [HTML Short Notes](./HTML/HTML-Short-Notes.pdf)  
+- [HTML Short Notes](HTML/HTML Short Notes.pdf)  
 
 📁 **CSS/** _(Fundamentals, layouts, and advanced topics)_  
-- [CSS Fundamentals](./CSS/CSS-Fundamentals.pdf)  
-- [CSS Flexbox & Grid](./CSS/CSS-Flexbox-Grid.pdf)  
-- [CSS Advanced](./CSS/CSS-Advanced.pdf)  
+- [CSS Fundamentals](./CSS/CSS Fundamentals.pdf)  
+- [CSS Flexbox & Grid](./CSS/CSS Flexbox & Grid.pdf)  
+- [CSS Advanced](./CSS/CSS Advanced.pdf)  
 
 ---
 
